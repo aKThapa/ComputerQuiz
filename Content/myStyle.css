@@ -1,0 +1,27 @@
+﻿body {
+    background: url('../Images/1080.jpg') no-repeat center center fixed;
+    background-size: cover;
+    color: white;
+}
+
+#mainBody {
+    padding: 10px;
+    background: rgba(158, 53, 53, 0.95);
+}
+
+label.checkbox {
+    display: inline;
+}
+
+hr {
+    border-color: black;
+}
+
+input, textarea {
+    border: 1px solid #e2e2e2;
+    background: #fff;
+    color: #333;
+    font-size: 1.2em;
+    margin: 5px 0 6px 0;
+    padding: 5px;
+}
